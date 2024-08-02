@@ -4,8 +4,8 @@ import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com
 
 // Firebase app settings including the database URL
 const appSettings = {
-    databaseURL: "https://mobile-app-48c8f-default-rtdb.firebaseio.com/" // my database URL
-}
+    databaseURL: "https://add-cart-5c53a-default-rtdb.firebaseio.com/" // my database URL
+}//https://add-cart-5c53a-default-rtdb.firebaseio.com//
 
 
 const app = initializeApp(appSettings);
